@@ -1,0 +1,32 @@
+[
+    {
+        "id": 3,
+        "description": "Dinner",
+        "amount": 300.0,
+        "category": "Food"
+    },
+    {
+        "id": 5,
+        "description": "Train",
+        "amount": 500.0,
+        "category": "Travel"
+    },
+    {
+        "id": 7,
+        "description": "Metro",
+        "amount": 100.0,
+        "category": "Travel"
+    },
+    {
+        "id": 9,
+        "description": "Lunch",
+        "amount": 350.0,
+        "category": "Food"
+    },
+    {
+        "id": 10,
+        "description": "Breakfast",
+        "amount": 150.0,
+        "category": "Food"
+    }
+]
